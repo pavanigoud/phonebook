@@ -1,0 +1,20 @@
+page-home {
+
+	.bg{
+		 background: rgba(0,0,0,0.5);
+	}
+     .bg-image{
+    background-image: url('../assets/imgs/6.jpg');
+    width: 100%;
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+   .d1{
+   	padding-top:200px;
+   }
+   .ion-content.button-button{
+   	width:200px;
+   }
+}

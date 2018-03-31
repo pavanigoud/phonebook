@@ -1,0 +1,41 @@
+page-register {
+
+.bg-image{
+    background-image: url('../assets/imgs/3.jpg');
+    width: 100%;
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+   .c1{
+   	width:30%;
+   }
+    .scroll-content{
+    	align-content: center;
+    	display: flex;
+    	
+    	justify-content: center;
+    	text-align: center;
+    	
+    }
+    ion-card.card{
+    box-shadow: none;
+    background: rgba(0,0,0,0.5);
+    border-radius: 5px;
+    }
+
+
+     .item{
+     	margin-bottom: 10px;
+     	background: rgba(255,255,255,10);
+     	border: medium none;
+     }
+
+     p{ color:#fff;}
+
+     ion-card-header.card-header{
+     	color:#fff;
+     }
+
+}
